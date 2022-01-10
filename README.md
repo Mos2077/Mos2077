@@ -1,7 +1,7 @@
 ### Olá! Eu sou Matheus O Silva 👋
 
 - 🔭 Hoje trabalho com Game Development/Front-end/Data Science
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript e TypeScript.
 - 😄 Pronouns: ele/dele
 
 <div align="left">
