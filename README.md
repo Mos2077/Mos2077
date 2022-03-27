@@ -1,4 +1,4 @@
-<img align="right" height="270em" src="https://github.com/Mos2077/Mos2077/blob/main/Mos2077.png"/>
+<img align="right" height="270em" src="https://github.com/account">
 
 ### Olá! Eu sou Matheus O Silva 👋
 
