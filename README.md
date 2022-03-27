@@ -1,5 +1,3 @@
-<img align="right" height="270em" src="https://github.com/account">
-
 ### Olá! Eu sou Matheus O Silva 👋
 
 - 🔭 Hoje trabalho com Game Development/Front-end/Data Science
