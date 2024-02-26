@@ -2,9 +2,9 @@
 
 ### Olá! Eu sou Matheus O Silva 👋
 
-- 🔭 Hoje trabalho com Game Development/Front-end/Data Science
-- 🌱 Estudando Java, JavaScript e TypeScript.
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje trabalho como Técnico em Informática/Desenvolvimento de Jogos Digitais
+- 🌱 Estudando Java, C# e Godot.
+  
 
 <div align="left">
   <a href="https://github.com/Mos2077">
